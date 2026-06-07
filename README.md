@@ -4,15 +4,6 @@ A voxel engine built from scratch in Python using ModernGL, Pygame, PyGLM, and N
 
 The project explores modern voxel rendering techniques including chunk-based terrain generation, frustum culling, ambient occlusion, packed vertex formats, texture arrays, procedural cave systems, and real-time voxel interaction.
 
----
-
-## Screenshots
-
-> Add screenshots here
-
-![Terrain](assets/screenshot_1.png)
-
-![World Generation](assets/screenshot_2.png)
 
 ---
 
